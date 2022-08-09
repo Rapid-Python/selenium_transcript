@@ -19,7 +19,7 @@ with open("5254.txt","rb") as file_data:
                     temp_dict["message"] = ""
                 list_chat.append(temp_dict)
            
-                # print(temp_dict)
+                print(temp_dict)
                 
 # print(list_chat)
        
@@ -32,17 +32,17 @@ for author_chat in list_chat:
     count += 1
     
     if count >= 2 and author_chat['author']==list_chat[count-2].get('author'):
-        print("2"*10)
-        print(author_chat['message'].upper())
+        # print("2"*10)
+        # print(author_chat['message'].upper())
         if list_chat[count-2].get('message').upper() in author_chat['message'].upper():
-            print("21"*10)
+            # print("21"*10)
            
             continue
         else:
             temp_dict["message"].append(author_chat["message"])
             continue
     if temp_dict.get('author') != author_chat['author']:
-        print("1"*10)
+        # print("1"*10)
         if temp_dict:
             temp_dict["message"] = "".join(temp_dict["message"])
             write_str = f"{temp_dict['author']} : {temp_dict['message']}\n"
@@ -53,10 +53,10 @@ for author_chat in list_chat:
         temp_dict['message'] = [author_chat['message']]
         continue    
     if temp_dict["message"][-1].upper() == author_chat["message"].upper():
-        print("3"*10)
+        # print("3"*10)
         continue
     elif len(temp_dict["message"][-1]) < len(author_chat["message"]):
-        print("4"*10)
+        # print("4"*10)
         old_upper_message = temp_dict["message"][-1].upper()
         # print(old_upper_message)
         # exit()
@@ -66,7 +66,7 @@ for author_chat in list_chat:
         else:
             temp_dict["message"].append(author_chat["message"])
     else:
-        print("5"*10)
+        # print("5"*10)
         old_upper_message = temp_dict["message"][-1].upper()
         new_upper_message = author_chat["message"].upper()
         if new_upper_message in old_upper_message:
