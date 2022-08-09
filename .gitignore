@@ -1,7 +1,8 @@
+main.py/
 venv/
 venv
+.env
 main.py
 test.py
 main.py/
 test.py/
-.env

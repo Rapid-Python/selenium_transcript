@@ -114,18 +114,17 @@ time.sleep(5)
 random_name = randint(000,9999)
 file_name = f'{random_name}.txt'
 auth_text = ''
-count = 0
 while True:
-   
-    if count == 200:
-        break
-    time.sleep(2)
-    with open(file_name, "a") as file_object:
-        if auth_text != driver.find_element(By.CSS_SELECTOR, "div.K6EKFb").get_attribute("innerHTML"):
-            file_object.write(str(auth_text))
-            file_object.write("\n")
-        auth_text = driver.find_element(By.CSS_SELECTOR, "div.K6EKFb").get_attribute("innerHTML")
-    count += 1
+   try:
+        time.sleep(2)
+        with open(file_name, "a") as file_object:
+            if auth_text != driver.find_element(By.CSS_SELECTOR, "div.K6EKFb").get_attribute("innerHTML"):
+                file_object.write(str(auth_text))
+                file_object.write("\n")
+            auth_text = driver.find_element(By.CSS_SELECTOR, "div.K6EKFb").get_attribute("innerHTML")
+        
+   except:
+       break
     
 print("after breakkkkkkkkkkk")
 list_chat = list()
