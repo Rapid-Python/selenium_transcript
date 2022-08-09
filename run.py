@@ -128,15 +128,14 @@ while True:
     
 print("after breakkkkkkkkkkk")
 list_chat = list()
-with open(file_name,"rb") as file_data:
+with open(file_name, "rb") as file_data:
     for line in file_data.readlines():
-        temp_dict = dict()
+        # temp_dict = dict()
         html_content = line.decode().strip()
-        bs4_content = BeautifulSoup(html_content)
+        bs4_content = BeautifulSoup(html_content,'html.parser')
         chatbox_html = bs4_content.find_all("div",class_="TBMuR bj4p3b")
-        # print(chatbox_html)
         for chat in chatbox_html:
-           
+            temp_dict = dict()
             span_msg = chat.find("div", class_="zs7s8d jxFHg").decode_contents().strip()
             if span_msg:
                 temp_dict["author"] = span_msg
@@ -145,16 +144,28 @@ with open(file_name,"rb") as file_data:
                     temp_dict["message"] = author_message.text
                 else:
                     temp_dict["message"] = ""
-         
-            if temp_dict:
                 list_chat.append(temp_dict)
-                print(temp_dict)
+           
+                # print(temp_dict)
+                
+# print(list_chat)
        
+# exit()               
                 
 final_chat = list()
 temp_dict = dict()
+count = -1
 for author_chat in list_chat:
+    count += 1
     
+    if count >= 2 and author_chat['author']==list_chat[count-2].get('author'):
+       
+        if list_chat[count-2].get('message').upper() in author_chat['message'].upper():
+            
+            continue
+        else:
+            temp_dict["message"].append(author_chat["message"])
+            continue
     if temp_dict.get('author') != author_chat['author']:
         if temp_dict:
             temp_dict["message"] = "".join(temp_dict["message"])
@@ -164,7 +175,7 @@ for author_chat in list_chat:
         temp_dict = dict()
         temp_dict['author'] = author_chat['author']
         temp_dict['message'] = [author_chat['message']]
-        continue
+        continue    
     if temp_dict["message"][-1].upper() == author_chat["message"].upper():
         continue
     elif len(temp_dict["message"][-1]) < len(author_chat["message"]):
@@ -181,7 +192,7 @@ for author_chat in list_chat:
             continue
         else:
             temp_dict["message"].append(author_chat["message"])
-         
+
 # print(final_chat)
 chat_file_name = f"CHAT_{file_name}"
 with open(chat_file_name, "w+") as out_file:
