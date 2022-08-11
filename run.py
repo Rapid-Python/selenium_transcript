@@ -167,12 +167,14 @@ for author_chat in list_chat:
     
     # To avoid dupilcation of author message which captured multiple times.
     if count >= 2 and author_chat['author']==list_chat[count-2].get('author'):
-       
+        temp_dict['author'] = author_chat['author']
+        
         if list_chat[count-2].get('message').upper() in author_chat['message'].upper():
+            temp_dict["message"][-1] = author_chat["message"]
             
             continue
         else:
-            temp_dict["message"].append(author_chat["message"])
+            # temp_dict["message"].append(author_chat["message"])
             continue
         
     # To stored messsage in list and list stored in dict when author is different. 

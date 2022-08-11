@@ -1,0 +1,454 @@
+Apoorv Nag : Yeah. 
+
+Apoorv Nag : . hello. 
+
+You : You know, audible. 
+
+Apoorv Nag : . 
+
+Apoorv Nag : . yes, you are 
+
+You : Yes, yes, a support or 
+
+Apoorv Nag : I will 
+
+Apoorv Nag :  okay. okay. so is that 
+
+Apoorv Nag :  code freezed? which we 
+
+Apoorv Nag :  want to present 
+
+Apoorv Nag :  to vijay? 
+
+You : with a 
+
+Apoorv Nag : Justment, I am logging 
+
+Apoorv Nag :  again. 
+
+You : Yeah. 
+
+Apoorv Nag : Hello. 
+
+Apoorv Nag : . i'm 
+
+Apoorv Nag :  a audible. 
+
+You : Hello. 
+
+Apoorv Nag : Yeah. 
+
+You : yes, 
+
+You : , is audible 
+
+Apoorv Nag : Huh, that code is  
+
+Apoorv Nag :  freeze, right?  
+
+You : Oh, that 
+
+You :  code of one like you. praveen has. 
+
+You :  a refracted the code. 
+
+You : . so will show 
+
+You :  the if the like when we are going 
+
+You :  to show the course of praveen code will 
+
+You :  be sure. like nicki is 
+
+You :  already refactor in them, like, in some 
+
+Apoorv Nag : haha, but, but 
+
+You :  manner, i, i 
+
+You : dn't act that 
+
+Apoorv Nag : But 
+
+Apoorv Nag :  but demo, but demo, but demo. 
+
+You : that I 
+
+You : ng, both are 
+
+Apoorv Nag :  
+
+You : more things here. 
+
+You : . yeah. yeah, that  
+
+You :  and that kind of also praveen run. 
+
+You : . because he only 
+
+You :  the link, he like the 
+
+You :  meeting link will be needed, not like if the  
+
+You :  functionality everything say 
+
+Apoorv Nag : Hmm, great. 
+
+You : We had 
+
+You :  in, so 
+
+Apoorv Nag : Great. 
+
+You : Because I'm going to make 
+
+You :  one more 
+
+You :  function so there i can show you the another things like mickey. 
+
+You : . oh, in that. also, i'm able to print everything 
+
+You : . like okay, 
+
+You :  there is a like little or less duplication i  
+
+You :  guess i can say. 
+
+You : . what? i just i 
+
+You :  made it i just really well like looking into the code  
+
+You :  also right now like in the properly and 
+
+You :  i'm going to make 
+
+You :  a like a proper syntax. so one praveen 
+
+You :  demo will show one demo. i will 
+
+You :  show from my end also 
+
+You :  so, two, two, 
+
+You :  two demo, i can say 
+
+Apoorv Nag : Okay. 
+
+You : because 
+
+You :  like, i, i did one. 
+
+Apoorv Nag : TK, and let's see. 
+
+You : Yeah. 
+
+Apoorv Nag : Okay. 
+
+Apoorv Nag : . i 
+
+Apoorv Nag :  have it. he has 
+
+Apoorv Nag :  asked like we can indeed. can we 
+
+Apoorv Nag :  integrate fireflies or not 
+
+Apoorv Nag :  fireflies api? okay, 
+
+Apoorv Nag : , i was checking their documentation. 
+
+Apoorv Nag : . so in this documentation, 
+
+Apoorv Nag : , i will show you is my screen visible. 
+
+You : yeah, it's Elizabeth 
+
+Apoorv Nag : And it's time. So in this, 
+
+Apoorv Nag :  api, we can 
+
+Apoorv Nag :  get the 
+
+Apoorv Nag :  user with the user's information. who has 
+
+Apoorv Nag :  signed up for the meeting? 
+
+Apoorv Nag :  who has created the meeting and 
+
+Apoorv Nag :  is admin true. 
+
+Apoorv Nag : . whosoever kids, the meeting. and we can 
+
+Apoorv Nag :  get the user with the user's information. who has signed up for the meeting who has created the meeting and is admin true. whosoever kids, the meeting and we can also pull the data for 
+
+Apoorv Nag :  meeting, they call it 
+
+Apoorv Nag :  as transcript. so inside 
+
+Apoorv Nag :  it, 
+
+Apoorv Nag : , we can fetch all the information, like index 
+
+You : Mm-hmm. 
+
+Apoorv Nag : Like 
+
+Apoorv Nag :  what are the lines? 
+
+Apoorv Nag : ? which are spoken in 
+
+You : okay, you 
+
+Apoorv Nag : Okay, 
+
+Apoorv Nag : , so 
+
+You : Young. 
+
+You : Yes. 
+
+Apoorv Nag : also 
+
+Apoorv Nag :  design a 
+
+Apoorv Nag :  back-end? can we create a back end, which 
+
+Apoorv Nag :  can give a similar kind of 
+
+Apoorv Nag :  result? but, 
+
+Apoorv Nag : , for that. 
+
+You : Yes. 
+
+Apoorv Nag : , we have to 
+
+Apoorv Nag : go 
+
+Apoorv Nag :  go again, go ahead. what are you think? 
+
+You : yeah, we can design it but the start 
+
+You :  time on in time. so i'm just like 
+
+You :  nike, i just 
+
+You :  thought yesterday night kid there's a week like a google 
+
+You :  or transcript we there is that they are showing 
+
+You :  the like 
+
+You :  a time also. so for the time, what can i 
+
+You :  be at the time? i don't know 
+
+You :  for now but 
+
+You :  i'm checking, if any dave in any 
+
+You :  day any there is a one thing like a one 
+
+You :  thing like a one parameter. i am looking for 
+
+You :  like maybe that is for the use, 
+
+You :  can for the time print. so, 
+
+You :  i'm thinking that but like a 
+
+Apoorv Nag : Okay. 
+
+You : messages with index. Yeah, that can be. 
+
+You : , we have like in a key have 
+
+You :  and then author with a speaker 
+
+You :  name is author name. so also, we 
+
+Apoorv Nag : Mm-hmm. 
+
+You : The 
+
+Apoorv Nag : Ticket. 
+
+You :  
+
+You :  make that again. we can keep that format. 
+
+Apoorv Nag : the one another thing which I want to 
+
+You : to the 
+
+Apoorv Nag : ask is, do you know 
+
+Apoorv Nag :  how to work on graphql? 
+
+Apoorv Nag : ? how to implement graphql. 
+
+You : I don't know, like 
+
+You :  i will check, i will go through this 
+
+You :  but i don't 
+
+Apoorv Nag : It is 
+
+You : know, like, never walk on. 
+
+Apoorv Nag : Take 
+
+Apoorv Nag :  it much going here. even i don't know. we will figure 
+
+Apoorv Nag :  out 
+
+Apoorv Nag :  something. 
+
+Apoorv Nag : . tortike. let's see what happens in the meeting  
+
+Apoorv Nag : . after 
+
+Apoorv Nag :  okay, anything else 
+
+You : You make 
+
+You :  sure that you 
+
+Apoorv Nag : discuss? 
+
+You : Know, nothing 
+
+Apoorv Nag : Haha. 
+
+You : Good news, star concept. 
+
+You : , share now. 
+
+Apoorv Nag : Hmm. 
+
+You : Maybe like I 
+
+You :  need to give a permissions 
+
+You :  up from somewhere. i'm just a second. 
+
+You : . the permission, which border. 
+
+Apoorv Nag : Please get all these things 
+
+Apoorv Nag :  sorted before that meeting. 
+
+Apoorv Nag : .  
+
+Apoorv Nag : . permission update your chrome. 
+
+You : Oh yeah. 
+
+You : . everything is updated 
+
+You :  sometime like nicki. they will ask 
+
+You :  you to submit maybe like you can 
+
+You :  see, from the system 
+
+You :  reference, 
+
+You : , maybe that i should enable some 
+
+You :  like microphone and camera. maybe 
+
+You :  it last time i got the same issue.  i just enabler data 
+
+You :  and it was working 
+
+You :  perfectly. so 
+
+You : metime like nicki. they will ask you to submit maybe like you can see from the system reference maybe that i should enable some like microphone and camera. maybe it last time i got the same issue.  i just enabler data and it was working perfectly so maybe the same thing is happened, right? 
+
+You : ? let me check again, it 
+
+Apoorv Nag : Can you share the output of this? 
+
+You :  must try. 
+
+Apoorv Nag : ? meeting. 
+
+You : Haha. I'm just, I'm just noting down 
+
+You :  it like, and i'm 
+
+You :  i will just say like it just after end 
+
+You :  up meeting. i'll just share 
+
+You :  two fine. one file which 
+
+You :  is like old yesterday. i have showed you the 
+
+You :  demo for that one file for today. i 
+
+You :  had made it just now 
+
+Apoorv Nag : Mm-hmm. 
+
+You : So, maybe like you will also 
+
+Apoorv Nag : Mayonnaise. 
+
+Apoorv Nag : . i'm asking about the output. 
+
+You : that 
+
+You :  today. what? 
+
+You : ? okay. 
+
+Apoorv Nag : Are here. 
+
+Apoorv Nag : , listening.  
+
+You : I I yes, I 
+
+You :  understand. 
+
+Apoorv Nag : Map, maple round. 
+
+Apoorv Nag : . also also share the 
+
+You : Let me. 
+
+Apoorv Nag : Of this meeting. 
+
+Apoorv Nag : . enjoy. 
+
+Apoorv Nag : . yeah, i have copied  
+
+Apoorv Nag : . i have enabled that transcript. i will just 
+
+Apoorv Nag :  check your output, 
+
+Apoorv Nag :  whether it is matching with 
+
+Apoorv Nag :  the script or not whether it is matching with the transcript 
+
+Apoorv Nag :  or not. okay. 
+
+Apoorv Nag : ?  
+
+You : yes, that's why 
+
+You :  i told you okay. i have created two 
+
+Apoorv Nag : ?  
+
+You :  outputs. 
+
+Apoorv Nag : To take it easy. 
+
+You : You don't know medical team 
+
+You :  because i've been a car 
+
+Apoorv Nag : Okay. 
+

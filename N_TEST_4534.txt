@@ -1,0 +1,182 @@
+Apoorv Nag : via email. So these two services we have created and also we were trying to you implement rabbitmq to implement microservice architecture there.
+
+Vijay Mishra : Okay. Okay.  and what about no?  i think we have. we
+
+Apoorv Nag : 
+
+Vijay Mishra : had a discussion regarding the aps of files. so,
+
+Apoorv Nag : Yes.
+
+Vijay Mishra : through it, like so,
+
+Apoorv Nag : Yes, I have gone through that and i have created a small document where i have noted down my observations and in this what I have done
+
+Vijay Mishra : Hmm.
+
+Apoorv Nag : fireplace API, I have used this api to fetch. what are the information? do they store how to access them and what are the fields, basically. they are storing in a transcript.   so in this
+
+Vijay Mishra : Hmm.
+
+Apoorv Nag : main API in this, they store the chat, which is happening between different participants like this. okay,  so these are these apis, basically, they access via graphql. we can create it via rest also  and in this  they store the chat, which is happening between different participants like this. okay, so these are these apis, basically. they access via graphql. we can create it via rest also. and in this transcript, they store these things index text start time and in time, the speaker name and speaker id. okay. and also we store the host email address who initiates the meeting and title of the meeting the date, on which it happened. and there are other fields
+
+Vijay Mishra : Okay, have
+
+Apoorv Nag : like
+
+Vijay Mishra : you tried to like extract the transcript?
+
+Apoorv Nag : Yes. so,
+
+Vijay Mishra : Okay.
+
+Apoorv Nag : talking,  we will record this meeting.  okay?  komal, can you start that script?  hello.
+
+You : Yeah,  the script is already started in me. like all
+
+Apoorv Nag : Okay.
+
+You : can share the file when i can What? We had a discussion in this meeting that will story like i'm capturing all things.  so like should i share
+
+Vijay Mishra : okay, so
+
+You : my screen?
+
+Vijay Mishra : do you letting you letting like one? id to join in this meter? your you're using your own. like user name.
+
+You : On. Oh no.  i have created one test idea because in my account,  i have a mediter to all the verification. i can say, like there's a verification. so, due to verification, i'm not able to make a login with my own id. so i have created one test idea. because in my account, i have a mediter to all the verification. i can say, like there's a verification. so, due to verification, i'm not able to make a login with my own id. so i have created on this.  so,
+
+Vijay Mishra : That's fine, but like no if you're not taking
+
+You : 
+
+Vijay Mishra : inviting that that thing  that how come it's going to,
+
+You : 
+
+Vijay Mishra : you know, do those like capture caption ing something, structure?
+
+You : No, come again. I'm not
+
+Vijay Mishra : I
+
+You : understanding.
+
+Vijay Mishra : mean, like you're supposed to invite. i mean, you re supposed to invite. i mean you some post to invite like one userna then only the label to extract like the caption. or
+
+Apoorv Nag : Yes, yes.
+
+You : Yeah.
+
+Apoorv Nag : so,
+
+Vijay Mishra : other. So how can we doing it?
+
+Apoorv Nag : okay, what we are doing
+
+You : so, for inviting
+
+Apoorv Nag : sending this invite to that user.  and that using that user  and that using that user email id, we are joining this meeting.
+
+Vijay Mishra : Okay. So who joined it? I mean right now, i mean using that
+
+Apoorv Nag : Yeah, Komal rapid.
+
+Vijay Mishra : Okay. Okay,  how you can see said it?
+
+You : Yeah, and
+
+Apoorv Nag : Yeah.
+
+You : sharing your mind, right? What is like? just,
+
+Vijay Mishra : Okay, you look into it.  we'll talk later. i think abu, no, i had a word with no prasan today so i think abu no, i had a word with no prasan today so i think no, we need to do one thing  we need like no start building apis. okay.  for the thing that we have,  you know, created because we,
+
+Apoorv Nag : oh,
+
+Vijay Mishra : we work four weeks now. So I think we reached to a point where person no wants you guys to know create apis before 31st of august. you know, after that.  so after that, once that done after that, no will be inviting
+
+You : the second just
+
+Vijay Mishra : front and backend guys to properly, you know, create ui like you seen one with five files.ie. okay.  the same thing, we need to do a similar sort of product. we are building it but no initially for a couple of months  we are trying to know at the functionality in rapid view itself. okay,  whatever they're doing it. so once the internal, our internal organization is doing, you know, using that thing that we trans. so once that no,  they convince an all other things, all the testing box are fixed. then we are going to launch it.  now, as individual product in the market for the public,
+
+Apoorv Nag : Okay.
+
+Vijay Mishra : okay, so I think you guys need to create or no apis and i'll talk about in the detail.  i'll be i'll be no demonstrating you. what we have achieved now, okay? so for those functionality, we need to create apis.  okay. so we can, you know,  so once that apis is completed, then we can give it to no backend for for them to know like build build, you know, play what i would say bridge or something you know  so once that apis is completed, then we can give it to no backend for for them to know like build build. you know, play what i would say bridge or something you know from the front and back and to integrate all those things. so i'll be explaining noises with that but you want to know what concept like what we are
+
+Apoorv Nag : Yes.
+
+Vijay Mishra : planning.
+
+Apoorv Nag :  yes basically we are going to
+
+Vijay Mishra : 
+
+Apoorv Nag : store this transcript in the similar way as fireflies do and we have to expose
+
+Vijay Mishra : 
+
+Apoorv Nag : that data.  through our apis.
+
+Vijay Mishra : Exactly. So no front and can call our api, you know. and can call our api, you know, and they can so on their ui or maybe you know,  and they can so on their ui or maybe you know you maybe back and people can take that and you know put it somewhere maybe. i don't know what these people are doing it in the back end, so i'm not sure like no, whether we can like build entire pie, entire like no backend and python itself is like what you think like no, whether we can like build entire pie, entire like no backend and python itself is like what you think? like, you must be aware about it. so, what do you think? like is it?  like possible. i'm obviously it's possible but what your take on it? self is like what you think? like, you must be aware about it. so what do you think? like is it? like possible. i'm obviously it's possible, but what your take on it? so do we build our like backend this particular products back in python itself?
+
+Apoorv Nag : Yeah, absolutely.
+
+Vijay Mishra : Or.
+
+Apoorv Nag : I am very positive
+
+Vijay Mishra : Okay.
+
+Apoorv Nag : Like we can build the transcript, module in python. okay.  and this product will be integrated with your main product, which is having that chatbot and all right,  so, i wanted to know, like which type of authorization you have done in that platform, is it google or
+
+Vijay Mishra : No, no slightly. actually, you know, you are, merging two things. a chatbot is not part of this thing. this is the entire different product.  this is a rapid chance. they're calling it rapid
+
+Apoorv Nag : Okay.
+
+Vijay Mishra : And chatbot is entirely a different thing that is different project.
+
+Apoorv Nag : Okay.
+
+Vijay Mishra : so this is entirely. I'll teach you.  i'll show you guys what we have done till now and what's other different api that we might need and i would suggest no approve that this will give really good capabilities to us like key if we can build no entire fight and backend that we really perfect. i would say me, I think we should do
+
+Apoorv Nag : And
+
+Vijay Mishra : like
+
+Apoorv Nag : yeah.  i am totally fine with the idea and i understand the basic entities which they,  which fireflies is storing in their backend,
+
+Vijay Mishra : Hmm.
+
+Apoorv Nag : And features like roles, which they are using as because they are managing fireflies,  user base separately than the users, who are joining the meeting.  okay.
+
+Vijay Mishra : hi, you, you know,  you'll surprise to know that. no,
+
+Apoorv Nag : 
+
+Vijay Mishra :  we achieved some of the things on the matrix is
+
+Apoorv Nag : 
+
+Vijay Mishra : that is way better than no fire files, too. like no summary and other sentiment sort of things  another matrix is like no participation of a user in a meeting, all those other things.  so we already achieved it. so all those things will be, you know, will be you know, will be there in the application that we will be noveloping.  so, like whatever work
+
+Apoorv Nag : Okay.
+
+Vijay Mishra : till now based on that,  you know we might need to create eps for that. i'll be i'll be showing that maybe today or maybe some other day. so,  common, i think you can throw it if it's working.
+
+Apoorv Nag : A common present, the screen.  or are you having any problem, while presenting the screen? komal you are on mute.
+
+You : The allowance is creating issues like a chair is not allowed from
+
+Apoorv Nag : Okay, it is. Okay.  it is okay. you just you just share.
+
+You : reference.
+
+Apoorv Nag : just share the text file, the text is
+
+You : Yeah.
+
+Apoorv Nag : Regarding our conversation.  will it be okay?
+
+You : Okay,  i'll share it. haha, that is
+

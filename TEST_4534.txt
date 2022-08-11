@@ -1,0 +1,592 @@
+Apoorv Nag : via email. So these two services we have created and
+
+Apoorv Nag : also we were trying to
+
+Apoorv Nag : you implement
+
+Apoorv Nag : rabbitmq to implement
+
+Apoorv Nag : microservice architecture there.
+
+Vijay Mishra : Okay. Okay.
+
+Vijay Mishra :  and what about no?
+
+Vijay Mishra :  i think we have. we
+
+Apoorv Nag : 
+
+Vijay Mishra : had a discussion regarding the
+
+Vijay Mishra : aps of files. so,
+
+Apoorv Nag : Yes.
+
+Vijay Mishra : through it, like
+
+Vijay Mishra : so,
+
+Apoorv Nag : Yes, I have gone through that
+
+Apoorv Nag : and i have created a small
+
+Apoorv Nag : document where i have noted down my
+
+Apoorv Nag : observations
+
+Apoorv Nag : and in this what I have done
+
+Vijay Mishra : Hmm.
+
+Apoorv Nag : fireplace API, I have
+
+Apoorv Nag : used
+
+Apoorv Nag : this api to fetch. what are the information? do
+
+Apoorv Nag : they store how to access
+
+Apoorv Nag : them and what are the fields,
+
+Apoorv Nag : basically. they are storing in a transcript.
+
+Apoorv Nag :   so in this
+
+Vijay Mishra : Hmm.
+
+Apoorv Nag : main API
+
+Apoorv Nag : in this, they store the
+
+Apoorv Nag : chat, which
+
+Apoorv Nag : is happening between different participants
+
+Apoorv Nag : like this. okay,
+
+Apoorv Nag :  so these are these
+
+Apoorv Nag : apis, basically, they access
+
+Apoorv Nag : via graphql. we can
+
+Apoorv Nag : create it via rest also
+
+Apoorv Nag :  and in this
+
+Apoorv Nag :  they store the chat, which is happening between different participants like this. okay, so these are these apis, basically. they access via graphql. we can create it via rest also. and in this transcript, they store these things
+
+Apoorv Nag : index text start
+
+Apoorv Nag : time and in time, the speaker
+
+Apoorv Nag : name and
+
+Apoorv Nag : speaker id. okay. and also
+
+Apoorv Nag : we store the host
+
+Apoorv Nag : email address who initiates
+
+Apoorv Nag : the meeting and
+
+Apoorv Nag : title of the meeting the
+
+Apoorv Nag : date, on which it happened. and
+
+Apoorv Nag : there are other fields
+
+Vijay Mishra : Okay, have
+
+Apoorv Nag : like
+
+Vijay Mishra : you tried to like extract the
+
+Vijay Mishra : transcript?
+
+Apoorv Nag : Yes. so,
+
+Vijay Mishra : Okay.
+
+Apoorv Nag : talking,
+
+Apoorv Nag :  we will record this meeting.
+
+Apoorv Nag :  okay?
+
+Apoorv Nag :  komal, can you start
+
+Apoorv Nag : that script?
+
+Apoorv Nag :  hello.
+
+You : Yeah,
+
+You :  the script is already started in
+
+You : me. like all
+
+Apoorv Nag : Okay.
+
+You : can share the
+
+You : file when i can
+
+You : What? We had a discussion in this meeting that will
+
+You : story like i'm capturing all things.
+
+You :  so like should i share
+
+Vijay Mishra : okay, so
+
+You : my screen?
+
+Vijay Mishra : do you letting
+
+Vijay Mishra : you letting like one?
+
+Vijay Mishra : id to join in this
+
+Vijay Mishra : meter? your you're using your own.
+
+Vijay Mishra : like user name.
+
+You : On. Oh no.
+
+You :  i have created one test idea because in my
+
+You : account,
+
+You :  i have a mediter to all the
+
+You : verification. i can say, like there's a
+
+You : verification. so, due to
+
+You : verification, i'm not able to make a login
+
+You : with my own id. so i have created
+
+You : one test idea. because in my account, i have a mediter to all the verification. i can say, like there's a verification. so, due to verification, i'm not able to make a login with my own id. so i have created on this.
+
+You :  so,
+
+Vijay Mishra : That's fine, but like
+
+Vijay Mishra : no if you're not taking
+
+You : 
+
+Vijay Mishra : inviting that that thing
+
+Vijay Mishra :  that how come it's going to,
+
+You : 
+
+Vijay Mishra :  you know, do those like capture caption
+
+Vijay Mishra : ing something, structure?
+
+You : No, come again. I'm not
+
+Vijay Mishra : I
+
+You : understanding.
+
+Vijay Mishra : mean, like you're supposed to invite. i mean, you
+
+Vijay Mishra : re supposed to invite. i mean you some post to invite like one
+
+Vijay Mishra : userna then only the label to
+
+Vijay Mishra : extract like the caption.
+
+Vijay Mishra : or
+
+Apoorv Nag : Yes, yes.
+
+You : Yeah.
+
+Apoorv Nag : so,
+
+Vijay Mishra : other. So how
+
+Vijay Mishra : can we doing it?
+
+Apoorv Nag : okay, what we are doing
+
+You : so, for inviting
+
+Apoorv Nag : sending this invite
+
+Apoorv Nag : to that user.
+
+Apoorv Nag :  and that using that user
+
+Apoorv Nag :  and that using that user email id, we are joining this
+
+Apoorv Nag : meeting.
+
+Vijay Mishra : Okay. So who joined it? I mean right
+
+Vijay Mishra : now, i mean using that
+
+Apoorv Nag : Yeah, Komal rapid.
+
+Vijay Mishra : Okay. Okay,
+
+Vijay Mishra :  how you can see said it?
+
+You : Yeah, and
+
+Apoorv Nag : Yeah.
+
+You : sharing your mind, right?
+
+You : What is
+
+You : like? just,
+
+Vijay Mishra : Okay, you look into it.
+
+Vijay Mishra :  we'll talk later. i think
+
+Vijay Mishra : abu, no, i had a word with no
+
+Vijay Mishra : prasan today so i think
+
+Vijay Mishra : abu no, i had a word with no prasan today so i think no, we need to do one thing
+
+Vijay Mishra :  we need like no start building apis. okay.
+
+Vijay Mishra :  for the thing that we have,
+
+Vijay Mishra :  you know, created because we,
+
+Apoorv Nag : oh,
+
+Vijay Mishra : we work
+
+Vijay Mishra : four weeks now. So I think we reached to a point
+
+Vijay Mishra : where person no wants
+
+Vijay Mishra : you guys
+
+Vijay Mishra : to know create apis before 31st of
+
+Vijay Mishra : august. you know, after that.
+
+Vijay Mishra :  so after that, once
+
+Vijay Mishra : that done after that, no will be inviting
+
+You : the second just
+
+Vijay Mishra : front and
+
+Vijay Mishra : backend guys to properly, you know, create
+
+Vijay Mishra : ui like you seen one with
+
+Vijay Mishra : five files.ie. okay.
+
+Vijay Mishra :  the same thing, we need to do
+
+Vijay Mishra : a similar sort of product. we are building it but
+
+Vijay Mishra : no initially for a couple of months
+
+Vijay Mishra :  we are trying to
+
+Vijay Mishra : know at the functionality
+
+Vijay Mishra : in rapid view itself. okay,
+
+Vijay Mishra :  whatever they're doing it. so once
+
+Vijay Mishra : the internal, our
+
+Vijay Mishra : internal organization is doing, you know, using that thing
+
+Vijay Mishra : that we trans. so once that no,
+
+Vijay Mishra :  they convince an all other things, all the testing
+
+Vijay Mishra : box are fixed. then we are going to launch it.
+
+Vijay Mishra :  now, as individual
+
+Vijay Mishra : product in the market for the public,
+
+Apoorv Nag : Okay.
+
+Vijay Mishra : okay, so I think
+
+Vijay Mishra : you guys need to
+
+Vijay Mishra : create or no apis and i'll talk about in the detail.
+
+Vijay Mishra :  i'll be i'll be no
+
+Vijay Mishra : demonstrating you. what we have achieved
+
+Vijay Mishra : now, okay? so for those
+
+Vijay Mishra : functionality, we
+
+Vijay Mishra : need to create apis.
+
+Vijay Mishra :  okay. so we can, you know,
+
+Vijay Mishra :  so once that apis is
+
+Vijay Mishra : completed, then we can give it to no backend
+
+Vijay Mishra : for for them to know
+
+Vijay Mishra : like
+
+Vijay Mishra : build build, you know, play
+
+Vijay Mishra : what i would say bridge or something you know
+
+Vijay Mishra :  so once that apis is completed, then we can give it to no backend for for them to know like build build. you know, play what i would say bridge or something you know from the front and back and to integrate
+
+Vijay Mishra : all those things. so i'll be explaining
+
+Vijay Mishra : noises with that but you want to know
+
+Vijay Mishra : what concept like what we are
+
+Apoorv Nag : Yes.
+
+Vijay Mishra : planning.
+
+Apoorv Nag :  yes basically we are going to
+
+Vijay Mishra : 
+
+Apoorv Nag : store this transcript in the similar way
+
+Apoorv Nag : as fireflies do and we have to expose
+
+Vijay Mishra : 
+
+Apoorv Nag : that data.
+
+Apoorv Nag :  through our apis.
+
+Vijay Mishra : Exactly. So no front and can
+
+Vijay Mishra : call our api, you know. and
+
+Vijay Mishra : can call our api, you know, and they can
+
+Vijay Mishra : so on their ui or maybe you know,
+
+Vijay Mishra :  and they can so on their ui or maybe you know you maybe back and people can
+
+Vijay Mishra : take that and you know put it
+
+Vijay Mishra : somewhere maybe. i don't know what these people are doing it in the
+
+Vijay Mishra : back end, so i'm not
+
+Vijay Mishra : sure like no, whether we can like build
+
+Vijay Mishra : entire pie, entire like no backend and
+
+Vijay Mishra : python itself is like what you think like
+
+Vijay Mishra : no, whether we can like build entire pie, entire like no backend and python itself is like what you think? like, you must be aware about it. so,
+
+Vijay Mishra : what do you think? like is it?
+
+Vijay Mishra :  like possible. i'm obviously it's
+
+Vijay Mishra : possible but what your take on it?
+
+Vijay Mishra : self is like what you think? like, you must be aware about it. so what do you think? like is it? like possible. i'm obviously it's possible, but what your take on it? so do we build our like backend
+
+Vijay Mishra : this particular products back in python itself?
+
+Apoorv Nag : Yeah, absolutely.
+
+Vijay Mishra : Or.
+
+Apoorv Nag : I am very positive
+
+Vijay Mishra : Okay.
+
+Apoorv Nag : Like we can build the
+
+Apoorv Nag : transcript, module in
+
+Apoorv Nag : python. okay.
+
+Apoorv Nag :  and this product will be integrated with your
+
+Apoorv Nag : main product, which is having that
+
+Apoorv Nag : chatbot and all right,
+
+Apoorv Nag :  so, i wanted to know, like which type of
+
+Apoorv Nag : authorization you have done in that platform, is
+
+Apoorv Nag : it google or
+
+Vijay Mishra : No, no
+
+Vijay Mishra : slightly. actually, you know, you are,
+
+Vijay Mishra : merging two things. a chatbot is not part of this
+
+Vijay Mishra : thing. this is the entire different product.
+
+Vijay Mishra :  this is a rapid chance. they're calling it rapid
+
+Apoorv Nag : Okay.
+
+Vijay Mishra : And chatbot is
+
+Vijay Mishra : entirely a different thing that is different project.
+
+Apoorv Nag : Okay.
+
+Vijay Mishra :  so this is entirely.
+
+Vijay Mishra : I'll teach you.
+
+Vijay Mishra :  i'll show you guys what we have done till now and
+
+Vijay Mishra : what's other different api that we might
+
+Vijay Mishra : need and i would suggest
+
+Vijay Mishra : no approve that
+
+Vijay Mishra : this will give really good capabilities to us like key
+
+Vijay Mishra : if we can build no entire fight and
+
+Vijay Mishra : backend that
+
+Vijay Mishra : we really perfect. i would say
+
+Vijay Mishra : me, I think we should do
+
+Apoorv Nag : And
+
+Vijay Mishra : like
+
+Apoorv Nag : yeah.
+
+Apoorv Nag :  i am totally
+
+Apoorv Nag : fine with the idea and
+
+Apoorv Nag : i understand
+
+Apoorv Nag : the basic entities which they,
+
+Apoorv Nag :  which fireflies is storing in their backend,
+
+Vijay Mishra : Hmm.
+
+Apoorv Nag : And
+
+Apoorv Nag : features like roles,
+
+Apoorv Nag : which they are using as
+
+Apoorv Nag : because they are managing fireflies,
+
+Apoorv Nag :  user base separately than the
+
+Apoorv Nag : users, who are joining the meeting.
+
+Apoorv Nag :  okay.
+
+Vijay Mishra : hi, you, you know,
+
+Vijay Mishra :  you'll surprise to know that. no,
+
+Apoorv Nag : 
+
+Vijay Mishra :  we achieved some of the things on the matrix is
+
+Apoorv Nag : 
+
+Vijay Mishra : that is way better than no fire files,
+
+Vijay Mishra : too. like no summary and
+
+Vijay Mishra : other sentiment sort of things
+
+Vijay Mishra :  another matrix is like no participation of a
+
+Vijay Mishra : user in a meeting, all those other things.
+
+Vijay Mishra :  so we already achieved it. so
+
+Vijay Mishra : all those things will be, you know, will be
+
+Vijay Mishra : you know, will be there in the application that we will
+
+Vijay Mishra : be noveloping.
+
+Vijay Mishra :  so, like whatever work
+
+Apoorv Nag : Okay.
+
+Vijay Mishra : till now based on that,
+
+Vijay Mishra :  you know we might need to create eps
+
+Vijay Mishra : for that. i'll be i'll be showing
+
+Vijay Mishra : that maybe today or maybe some
+
+Vijay Mishra : other day. so,
+
+Vijay Mishra :  common, i
+
+Vijay Mishra : think you can throw it if it's working.
+
+Apoorv Nag : A common present, the screen.
+
+Apoorv Nag :  or are you having any
+
+Apoorv Nag : problem, while presenting
+
+Apoorv Nag : the screen? komal you are on mute.
+
+You : The allowance is creating issues like
+
+You : a chair is not allowed from
+
+Apoorv Nag : Okay, it is. Okay.
+
+Apoorv Nag :  it is okay. you just you just share.
+
+You : reference.
+
+Apoorv Nag :  just share the text file,
+
+Apoorv Nag : the text is
+
+You : Yeah.
+
+Apoorv Nag : Regarding our
+
+Apoorv Nag : conversation.
+
+Apoorv Nag :  will it be okay?
+
+You : Okay,
+
+You :  i'll share it. haha, that is
+

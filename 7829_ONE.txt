@@ -1,0 +1,1330 @@
+Apoorv Nag : Hello, formal. 
+
+You : Yeah, hello. 
+
+Apoorv Nag : Hello. Hi Komal. You are, 
+
+Apoorv Nag : . you are signed in with gmail 
+
+Apoorv Nag :  or rapid innovation id. 
+
+You : Gmail, this is the test. 
+
+You :  mala have created like for this 
+
+You :  selenium. 
+
+You : . because with a rapid innovation, 
+
+You : , there's a tool like 
+
+You :  a their verification to their creating 
+
+You :  issues by logging. 
+
+Apoorv Nag : Okay, 
+
+Apoorv Nag : . okay, that is fine. that is 
+
+You : . 
+
+Apoorv Nag :  fine. that is fine for testing you have created this, right?  
+
+You : Yes, yes. 
+
+Apoorv Nag : Okay, fine. So fine. We will 
+
+Apoorv Nag :  start with the quick updates, 
+
+Apoorv Nag :  so abhishek you can start. 
+
+Apoorv Nag : . what are you up to? 
+
+Abhishek Negi : Yeah. 
+
+Abhishek Negi : . they have to. yeah, in 
+
+Abhishek Negi :  day, you told me to implement 
+
+Abhishek Negi :  new architecture, right? 
+
+Apoorv Nag : Can you explain 
+
+Apoorv Nag :  the benefit and the features of 
+
+Apoorv Nag :  that thing? 
+
+Abhishek Negi : Yeah, 
+
+Abhishek Negi : , first to be done 
+
+Abhishek Negi : . now, our goal is 
+
+Abhishek Negi :  first, we have to check if file is 
+
+Abhishek Negi :  estate in our survival. 
+
+Abhishek Negi : . file means. 
+
+Apoorv Nag : Okay. okay, 
+
+Apoorv Nag : , first of all, tell us the problem statement 
+
+Apoorv Nag : , keep what was the problem in 
+
+Abhishek Negi : yeah, in 
+
+Apoorv Nag : Platform. 
+
+Abhishek Negi : If if 
+
+Abhishek Negi :  we click in any video 
+
+Abhishek Negi : , then it's go in the    
+
+Abhishek Negi :  s3 bucket.    first 
+
+Abhishek Negi :  date and generate a piece and 
+
+Abhishek Negi :  url. and every 
+
+Abhishek Negi :  time it's generating place and dual, 
+
+Abhishek Negi : video, then it's go in the S3 bucket.    First date and generate a piece and URL and every time it's generating place and do all then it's cost too much. 
+
+Abhishek Negi : . yeah. 
+
+Abhishek Negi : , that's why we 
+
+Abhishek Negi :  implement new thing and 
+
+Abhishek Negi :  whenever user click in  
+
+Abhishek Negi :  any video, then that 
+
+Abhishek Negi :  video saving our server 
+
+Abhishek Negi :  the next time user. 
+
+Abhishek Negi : . that those video from the 
+
+Abhishek Negi :  sermon, not in the sd, okay? 
+
+Abhishek Negi : ? 
+
+Apoorv Nag : Are you getting 
+
+Apoorv Nag :  engaged common reshma? 
+
+You : oh, like a pre-shine has 
+
+You :  generated for the world like 
+
+You :  on the basis of request and 
+
+You :  then you are saving somewhere that 
+
+You :  you are in like, right? 
+
+Abhishek Negi : Not URL. I am saving 
+
+Abhishek Negi :  the file in the server. 
+
+You : Okay. 
+
+Abhishek Negi : Yeah. 
+
+You : So that will not 
+
+You :  take like any larger if 
+
+You :  you are saving some videos 
+
+You :  in a server in flower server, so 
+
+You :  that will take a large memory 
+
+Apoorv Nag : Right. 
+
+Abhishek Negi : Yes. 
+
+Apoorv Nag : What is the 
+
+Apoorv Nag :  solution for that? 
+
+You : That's even 
+
+You :  after some time like indicate the load is 
+
+You :  becoming higher. so server is 
+
+You :  getting slowly. 
+
+Apoorv Nag : Right, right. 
+
+Apoorv Nag : . right. so what is this? what can be the solution for 
+
+Apoorv Nag :  that abhishek 
+
+Abhishek Negi : M. 
+
+Abhishek Negi : . we can increase the size of the server. 
+
+You : So that is the 
+
+You :  not or like 
+
+Apoorv Nag :  
+
+You : like an egg that 
+
+You :  i can say. horizontally vertically. 
+
+You : . we have, we know the database 
+
+You :  something, i don't know. the totally  
+
+You :  concept, but the horizontally  
+
+You :  is a good, like, nicki. we have to create 
+
+You :  some duplication. yeah. maybe like a 
+
+You : n egg that i can say, horizontally vertically. we have, we know the database something. i don't know. the totally concept, but the horizontally is a good like, nicki. we have to create some duplication. yeah. maybe like a tv partition technique. 
+
+You : like an egg that I can say, horizontally vertically. We have, we know the database something. I don't know. The totally concept, but the horizontally is a good like Nicki. We have to create some duplication. Yeah. Maybe like a TV partition technically some information 
+
+You :  in that. 
+
+You : . i can database and some information. 
+
+You :  in that. i can database and some information. so maybe like for some 
+
+You :  time for like, any not for a long 
+
+You :  time for this is also, 
+
+You : , we are, you can say, like a drawback. 
+
+You : . we cannot like the 
+
+You :  well, there's 
+
+You :  our ultimate solution, you have to find it 
+
+You : , i might like somewhere like this. 
+
+You :  this problem, i have faced 
+
+You :  in my previous project. 
+
+You : . so, 
+
+Apoorv Nag : Okay. 
+
+You :  it's they have chooses the 
+
+You : ultimate like that temporary solution. 
+
+You :  not a permanent. 
+
+Apoorv Nag : Okay. 
+
+Apoorv Nag : . so 
+
+Apoorv Nag :  commerce point is right, increasing the 
+
+Apoorv Nag :  server size can help us 
+
+Apoorv Nag :  to some extent, okay? 
+
+Apoorv Nag : . so, commerce point is right, increasing the server size can help us to some extent. okay, it will work in our 
+
+Apoorv Nag :  case in rapid innovation, we can 
+
+Apoorv Nag :  increase the size because our company 
+
+Apoorv Nag :  strength is not that much. but yes 
+
+Apoorv Nag : , at some point of time, 
+
+Apoorv Nag :  increase the increasing the server size 
+
+Apoorv Nag :  can help us to some extent, okay? it will work in our case in rapid innovation we can increase the size because our company strength is not that much. but yes at some point of time, increase the increasing the server size will not help us to scale our 
+
+Apoorv Nag :  videos. if we are delivering the 
+
+Apoorv Nag :  videos from our easy, to instance, it will 
+
+Apoorv Nag :  work in our case in rapid innovation we can increase the size because our company strength is not that much. but yes, at some point of time, increase the increasing, the server size will not help us to scale our videos. if we are delivering the videos from our easy to instance, it will not be enough. so in that case, 
+
+Apoorv Nag : , you told something 
+
+Apoorv Nag :  horizontal vertical, right? 
+
+Apoorv Nag : ? so increasing the 
+
+You : Yes. 
+
+Apoorv Nag : vertical scaling, 
+
+Apoorv Nag : If you are increasing the 
+
+Apoorv Nag :  size, horizontal means 
+
+Apoorv Nag : , if you are replicating 
+
+Apoorv Nag : , your instances 
+
+Apoorv Nag :  multiple times, okay, 
+
+Apoorv Nag : , that is taken care by 
+
+Apoorv Nag :  devops. okay, what they can do, they can 
+
+Apoorv Nag :  do, they can watch the traffic. if the traffic is 
+
+Apoorv Nag :  exceeding, some limit it will just 
+
+Apoorv Nag :  replicate the containers or it will replicate 
+
+Apoorv Nag :  the containers or it will, replicate the instances. okay? 
+
+Apoorv Nag : , that is taken care by devops. okay, what they can do, they can watch the traffic. if the traffic is exceeding, some limit, it will just replicate the containers or it will replicate the instances, okay? now, the next point comes.  
+
+Apoorv Nag :  let's say traffic is 
+
+Apoorv Nag :  exceeding, some limit it will just replicate the containers or it will replicate the instances, okay? now the next point comes let's say traffic is handled okay? if 
+
+Apoorv Nag :  lots of traffic are coming, that it is 
+
+Apoorv Nag :  under auto balance, it is under 
+
+Apoorv Nag :  auto balance, it is under auto balancing auto scaling and 
+
+Apoorv Nag :  your that replica is getting 
+
+Apoorv Nag :  created. now, what will happen if 
+
+Apoorv Nag :  database is getting chilled, let's 
+
+Apoorv Nag :  say if there are 
+
+Apoorv Nag :  10 instances at a time, which is 
+
+Apoorv Nag :  interacting with the single database, 
+
+Apoorv Nag : , okay, that which is having 
+
+Apoorv Nag :  that list of the videos, 
+
+Apoorv Nag : , tk to database 
+
+Apoorv Nag :  server. if the database is getting choked, 
+
+Apoorv Nag : , then we do the horizontal scaling in 
+
+Apoorv Nag :  database also using master 
+
+Apoorv Nag :  slave architecture. 
+
+You : okay, 
+
+You : , must 
+
+Apoorv Nag : The main DB 
+
+Apoorv Nag :  is known as master db, which 
+
+Apoorv Nag :  which lets you to write the data 
+
+Apoorv Nag :  on that db. okay. but 
+
+Apoorv Nag :  all the read queries will be done 
+
+Apoorv Nag :  with the slave disease, okay?  
+
+Apoorv Nag : ?  so master using 
+
+You : Yes. 
+
+Apoorv Nag : balancer, you can 
+
+Apoorv Nag :  scale up, you can do the 
+
+Apoorv Nag :  horizontal scaling for instance and 
+
+Apoorv Nag :  using master slave architecture. you can do the 
+
+Apoorv Nag :  horizontal scaling for instance and using master slave architecture. you can do the horizontal scaling for your databases. 
+
+Apoorv Nag : . okay, but there 
+
+Apoorv Nag :  comes in another point of fun. 
+
+Apoorv Nag : . the funny part here is, let's say 
+
+Apoorv Nag :  you are reading 
+
+Apoorv Nag : . you are you are 
+
+Apoorv Nag :  reading. you are you are you are 
+
+Apoorv Nag :  reading. you are you are you are recharging your wallet. okay, let's say wallet  
+
+Apoorv Nag :  is a table and  
+
+Apoorv Nag :  you are recharging your wallet, using an 
+
+Apoorv Nag :  api. as soon as you 
+
+Apoorv Nag :  recharge your wallet, it will 
+
+Apoorv Nag :  do the insert query in the master 
+
+Apoorv Nag :  db. okay? and 
+
+Apoorv Nag :  quickly, you will ask for the updated balance, 
+
+Apoorv Nag : , right? and that will be coming from  
+
+Apoorv Nag :  your slave db let's 
+
+Apoorv Nag :  say your master db is in 
+
+You : He? 
+
+Apoorv Nag : DB is in Mumbai and your slave DB is 
+
+Apoorv Nag :  in mumbai and your slave db is very far. let's say it is in north virginia, 
+
+Apoorv Nag : . okay, there might be some  
+
+Apoorv Nag :  two or one second lag between 
+
+Apoorv Nag :  replicating, the entire updated  
+
+Apoorv Nag :  balance in all the slave 
+
+Apoorv Nag :  babies. okay, so in 
+
+Apoorv Nag :  that case, what you will see you 
+
+Apoorv Nag :  have recharged your wallet, but the  
+
+Apoorv Nag :  balance has not updated  
+
+Apoorv Nag :  because the read query has been 
+
+Apoorv Nag :  triggered on the slave tv. 
+
+Apoorv Nag : . so, this type of lag is 
+
+Apoorv Nag :  known as master slave. replication 
+
+Apoorv Nag : . lag. okay, so if 
+
+Apoorv Nag :  you are scaling, your database using 
+
+Apoorv Nag :  horizontal scaling by using 
+
+Apoorv Nag :  master slave architecture, then 
+
+Apoorv Nag :  we will end up with master 
+
+Apoorv Nag :  slave. replication lag. 
+
+Apoorv Nag : . to fix this. 
+
+Apoorv Nag : . we have an idea, but 
+
+Apoorv Nag :  i would like you to think 
+
+Apoorv Nag :  komal and abhishek and praveen. 
+
+Apoorv Nag : . how can we fix this master 
+
+Apoorv Nag :  slave? replication 
+
+Apoorv Nag :  leg. okay. have you have 
+
+Apoorv Nag :  you got the problem like what will be the problem? 
+
+Apoorv Nag :  like what will be the problem if we do the 
+
+Apoorv Nag :  horizontal scaling in database, 
+
+You : Yes, it's 
+
+Apoorv Nag : We will be having one 
+
+Apoorv Nag :  master tb. multiple slave dbs. 
+
+Apoorv Nag : . all the right queries will be executed 
+
+Apoorv Nag :  on main db. and that 
+
+Apoorv Nag :  data is replicated in all the slaves. 
+
+Apoorv Nag : . but if we quickly 
+
+Abhishek Negi : like, 
+
+Abhishek Negi : Thank you. 
+
+Apoorv Nag : data, it will 
+
+Apoorv Nag :  take some time. 
+
+You : Yes, yes. 
+
+Pravin Prabhakar Mohadika : This. 
+
+Apoorv Nag : just think, 
+
+Apoorv Nag : , okay? you you just have to tell 
+
+Apoorv Nag :  the approach. okay. 
+
+Apoorv Nag : . just think about that. this is a very 
+
+Apoorv Nag :  common problem. okay? 
+
+Apoorv Nag : ? so nice. nice. so, 
+
+Apoorv Nag : , i hope you must have 
+
+Apoorv Nag :  understood something. 
+
+Apoorv Nag : . tk. so 
+
+Apoorv Nag :  abhishek also, the main concern was 
+
+Apoorv Nag :  we are incurring, 
+
+Apoorv Nag :  lots of money. if 
+
+Apoorv Nag :  we are going to host the videos 
+
+Apoorv Nag :  via s3, this is the 
+
+Apoorv Nag :  problem statement. to. 
+
+Apoorv Nag :  mitigate this problem to fix 
+
+Apoorv Nag :  this. we are going to 
+
+Apoorv Nag :  host the videos via s3, this is the problem statement. to mitigate this problem to fix this. we are going to implement a cdn type  
+
+Apoorv Nag :  of feature using our ec2 instance. 
+
+Apoorv Nag : . cdn means. 
+
+Apoorv Nag : . whenever you host your image 
+
+Apoorv Nag :  in any of the server. 
+
+Apoorv Nag : . you cannot access that 
+
+Apoorv Nag :  image server from around the world. 
+
+Apoorv Nag : . because if you are sitting in us 
+
+Apoorv Nag :  and you're accessing that image 
+
+Apoorv Nag :  server from around the world. because if you are sitting in us and you're accessing that image from mumbai, let's say 
+
+Apoorv Nag :  your images stored in mumbai server, then 
+
+Apoorv Nag :  image of 10, mb will take 
+
+Apoorv Nag :  30 seconds to 
+
+Apoorv Nag :  transfer from mumbai to us. 
+
+Apoorv Nag : . so, your website will be very slow. 
+
+Apoorv Nag : . to avoid this 
+
+Apoorv Nag :  problem. we use cdn 
+
+Abhishek Negi : Okay. 
+
+Apoorv Nag : network. 
+
+Apoorv Nag : . which works like caches. 
+
+Apoorv Nag : . there are lots of content delivery network 
+
+Apoorv Nag :  around the world they just  
+
+Apoorv Nag :  see if the request is 
+
+Apoorv Nag :  not serviceable, let's say  
+
+Apoorv Nag :  you're asked for a image link if that  
+
+Apoorv Nag :  is missing in the syrian, it will hit 
+
+Apoorv Nag :  the mumbai server, it will get that. it would 
+
+Apoorv Nag : , it will get it in 30 seconds. 
+
+Apoorv Nag : . first time the website will load slow, 
+
+Apoorv Nag : , but the second time when you load it again, you will 
+
+Apoorv Nag :  see the websites are opening much faster 
+
+Apoorv Nag :  than the first. the first thing 
+
+Apoorv Nag :  you might have seen when you are 
+
+Abhishek Negi : He? 
+
+Apoorv Nag :  using vpns, whenever you 
+
+Apoorv Nag : access Amazon 
+
+Apoorv Nag :  after lots of days, it loads 
+
+Apoorv Nag :  little bit slow. but then 
+
+Apoorv Nag :  when you click on refresh, there are 
+
+Apoorv Nag :  lots of caches implemented, for 
+
+Apoorv Nag :  example, caching on the browser side, 
+
+Apoorv Nag : , caching using cdn 
+
+Apoorv Nag :  servers. okay so this helps 
+
+Apoorv Nag :  in improving the performance of 
+
+Apoorv Nag :  your sites. 
+
+Apoorv Nag : . so, this type of cdn thing. 
+
+Apoorv Nag : . we are trying to implement by using 
+
+Apoorv Nag :  ec2 instance. so what 
+
+Apoorv Nag :  abhishek is trying to do, we will upload 
+
+Apoorv Nag :  the file in s3. 
+
+Apoorv Nag : . when we make a get request for the video, 
+
+Apoorv Nag : , we will make a rick. we will make the 
+
+Apoorv Nag :  get request job, easy to instance, 
+
+Apoorv Nag : , if that video is not there, 
+
+Apoorv Nag : , we will face that and we will be 
+
+Apoorv Nag :  serving that video using our easy 
+
+Apoorv Nag :  to instance, okay. if  
+
+Apoorv Nag :  that video is not there, we will face that and we will be serving that video using our easy to instance. okay, if it is getting bottle neck, then 
+
+Apoorv Nag :  we will implement the replication of 
+
+Apoorv Nag :  ec2 instance using load balancer. 
+
+Apoorv Nag : . otherwise. 
+
+Apoorv Nag : . what we will do, let's say 
+
+Apoorv Nag :  we are with over 
+
+Apoorv Nag :  time. we are having lots of videos. 
+
+Apoorv Nag : . let's say on every month, we are uploading 
+
+Apoorv Nag :  10 gb of videos at some point 
+
+Apoorv Nag :  of time, the 20 gb limit can 
+
+Apoorv Nag :  get exceeded if we are taking 
+
+Apoorv Nag :  a hard disk of 20 gb, 
+
+Apoorv Nag :  limit, can get exceeded. if we are taking a hard disk of 20 gb, in our server. so what we will do, we will 
+
+Apoorv Nag :  do, let's say we are with over time. we are having lots of videos. let's say on every month, we are uploading 10. gb of videos. at some point of time, the 20 gb limit, can get exceeded. if we are taking a hard disk of 20 gb, in our server. so what we will do, we will remove the older videos, 
+
+Apoorv Nag : , the videos which are not getting access anymore. 
+
+Apoorv Nag : . we will delete them from ec2 
+
+Apoorv Nag : 2 instance. 
+
+Apoorv Nag : . is it okay? common. 
+
+Apoorv Nag : . 
+
+You : Yeah yeah. Getting 
+
+You :  getting something. 
+
+You : . we have there's a lot of 
+
+Apoorv Nag : okay, so 
+
+Apoorv Nag :  this is what we are up to in video 
+
+Apoorv Nag :  portal. what are you up to 
+
+Apoorv Nag : , in video portal. what are you up to in google? 
+
+Apoorv Nag : ? meet extraction of. 
+
+Apoorv Nag : . plus. 
+
+You : yeah, like 
+
+You :  see, there's 
+
+You :  every time i'm going to think so. i'm going to 
+
+You :  think so, i'm going to analyze the different different things. so i'm 
+
+You :  going to analyze the different different things. so i'm just like i want a more two 
+
+You :  days to. i can say 
+
+You : , i find analyze 
+
+Apoorv Nag : okay, 
+
+Apoorv Nag : , you need only two more days. 
+
+You : That's everything 
+
+You :  you have for like or more. 
+
+You : . two days to like 
+
+Apoorv Nag : He? 
+
+You : yeah, because 
+
+You :  key i made it something like on my 
+
+You :  copy. like, i'm just trying to 
+
+You :  do something. 
+
+Apoorv Nag : Okay. 
+
+You : This. 
+
+Apoorv Nag : What about you 
+
+Apoorv Nag :  provide? what are you doing? 
+
+Pravin Prabhakar Mohadika : Oh yeah. 
+
+Pravin Prabhakar Mohadika : , he just like 
+
+Pravin Prabhakar Mohadika :  mike 
+
+Pravin Prabhakar Mohadika :  cook pottery 
+
+Pravin Prabhakar Mohadika :  refactoring is a,  
+
+Pravin Prabhakar Mohadika : , he's like completed just 
+
+Pravin Prabhakar Mohadika :  a commenting part is very 
+
+Pravin Prabhakar Mohadika :  meaning enough. after that, 
+
+Pravin Prabhakar Mohadika : , i will check with the 
+
+Pravin Prabhakar Mohadika :  like, 
+
+Pravin Prabhakar Mohadika : , means that, that 
+
+Pravin Prabhakar Mohadika : , i will check with the like, means that that transmit products. 
+
+Apoorv Nag : Okay, I want to 
+
+Apoorv Nag :  understand one thing if your food and 
+
+Apoorv Nag :  comals could are same. then i 
+
+Pravin Prabhakar Mohadika : Same here. 
+
+Apoorv Nag :  i think the standard 
+
+Apoorv Nag : creating that text file 
+
+Apoorv Nag :  and writing the 
+
+Apoorv Nag :  output on the final transcript 
+
+Apoorv Nag :  file are same, right. 
+
+Apoorv Nag : . only the middleware 
+
+Pravin Prabhakar Mohadika : Yes. 
+
+Apoorv Nag : Only the middle. Main logic 
+
+Apoorv Nag :  is different. 
+
+Pravin Prabhakar Mohadika : Yes. 
+
+Apoorv Nag : If you are right, okay,  
+
+Apoorv Nag : Also, I will 
+
+Apoorv Nag :  also try to think 
+
+Apoorv Nag :  and implement some logic if 
+
+Apoorv Nag :  possible. 
+
+You : And there is one more website 
+
+You :  i can show you. like, you can get the 
+
+You :  free formatter. 
+
+You : . so you just like nicki whatever 
+
+You : . we are taking the captions, like, with 
+
+You :  the dave things we can copy 
+
+You :  that. we can like paste there. we can get 
+
+You :  the free formatter. so you just like, nicki, whatever. we are taking the captions. like, with the dave things we can copy that. we can like paste there. we can get the totally format so you 
+
+Apoorv Nag : Huh. 
+
+You : can we can analyze easily. 
+
+Apoorv Nag : Take it. 
+
+Apoorv Nag : . yeah. yeah, we can analyze. i don't want to. 
+
+Apoorv Nag : . i don't want that to analyze. i 
+
+Apoorv Nag :  don't want to. i don't want that to analyze. i want to write my own 
+
+You : Okay. 
+
+Apoorv Nag :  code on. 
+
+You : . okay. 
+
+You : And yeah, yeah. So you 
+
+Apoorv Nag : Parallel to 
+
+Apoorv Nag :  yours, parallel to yours. 
+
+Apoorv Nag : , parallel to yours. chicken. yeah. yeah, i can  
+
+Apoorv Nag :  look i can do that. yeah.  
+
+Apoorv Nag : .  great, great. 
+
+Apoorv Nag : . so, coming back to 
+
+Apoorv Nag :  reshma. what are you up to? 
+
+Reshma sadhu waghmare : Oh, maybe. 
+
+Apoorv Nag : Okay. 
+
+Apoorv Nag : . take care. so 
+
+Apoorv Nag : , reshma is basically creating a 
+
+Apoorv Nag :  to-do list. so what i am going to do from 
+
+Apoorv Nag :  now on, we will try 
+
+Apoorv Nag :  key reshma. 
+
+Apoorv Nag : el swift  
+
+Apoorv Nag :  developmental, then what's up daily? and she will be 
+
+Apoorv Nag :  creating some sort of apis, so that 
+
+Apoorv Nag :  with practice, she will 
+
+Apoorv Nag :  be creating some sort of apis. so that with practice, she will come to know two new challenges. 
+
+Apoorv Nag : , new difficulties. okay, 
+
+Apoorv Nag : ? once she's fine with the 
+
+Apoorv Nag :  aka part, then 
+
+Apoorv Nag :  we will 
+
+Apoorv Nag :  try key reshmael swift developmental, then what's up daily? and she will be creating some sort of apis. so that with practice, she will come to know two new challenges, new difficulties. okay? once she's fine with the aka part, then we will involver in cron jobs. 
+
+Apoorv Nag : . while for creating 
+
+Apoorv Nag :  commands. okay, one 
+
+Apoorv Nag :  by one by one. we will take for 
+
+Apoorv Nag :  the steps, okay? and 
+
+Apoorv Nag :  she will be creating some sort of apis. so that with practice, she will come to know two new challenges, new difficulties. okay? once she's fine with the aka part, then we will involver in cron jobs. while for creating commands. okay, one by one by one. we will take for the steps. okay and in parallel i will try. i will 
+
+Apoorv Nag :  try. i will see if we can 
+
+Apoorv Nag :  let her scale 
+
+Apoorv Nag :  up on blockchain technology 
+
+Apoorv Nag :  or not but it all depends as of now. 
+
+Apoorv Nag :  since 
+
+Apoorv Nag :  on on 18th august 
+
+Apoorv Nag :  reshma will be completing 
+
+Apoorv Nag :  one month with us. so i hope 
+
+Apoorv Nag :  till 18 others. 
+
+Apoorv Nag : , she's fine with this api 
+
+Apoorv Nag :  part once she is done, then 
+
+Apoorv Nag :  we will scale up 
+
+Apoorv Nag :  on blockchain technology or not but it all depends as of now since on on 18th, august reshma will be completing one month with us. so i hope till 18 others. she's fine with this api part. once she is done, then we will scale up on blockchain as well. 
+
+Apoorv Nag : . okay. 
+
+Apoorv Nag : . toyota expert. yes. 
+
+Apoorv Nag : , apart from this i have  
+
+Apoorv Nag :  shared you guys sonar lint. 
+
+Apoorv Nag :  plugin yesterday.  
+
+Apoorv Nag : , sonar lint link in slack 
+
+Apoorv Nag :  channel. have you guys  
+
+Apoorv Nag :  sonar lint. plugin yesterday, sonar lint link in slack channel. have you guys taken some time to have a look? 
+
+Apoorv Nag : ? 
+
+Pravin Prabhakar Mohadika : Oh yes. 
+
+Apoorv Nag : Okay. See 
+
+Apoorv Nag :  basically, pilant 
+
+Apoorv Nag :  by using thailand, we can check out 
+
+Apoorv Nag :  some formatting error some 
+
+Apoorv Nag :  formatting error. some, we can fix some code related 
+
+Apoorv Nag :  warnings but using  
+
+Apoorv Nag :  sonar link, we can fix. 
+
+Apoorv Nag :  some code related warnings, but using sonar link, we can fix. we can get more  
+
+Apoorv Nag :  errors. like cold smells. 
+
+Apoorv Nag : , okay? if there is some  
+
+Apoorv Nag :  unused code or some dead code, 
+
+Apoorv Nag : , it can point it out. okay. 
+
+Apoorv Nag : . so have a look 
+
+Apoorv Nag :  on this plugin sonar link. 
+
+Apoorv Nag : , we can fix. we can get more errors. like cold smells, okay? if there is some unused code or some dead code, it can point it out. okay? so have a look on this plugin sonar link, we, because as development in  
+
+Apoorv Nag :  the development process, whenever we will be 
+
+Apoorv Nag :  pushing our code. devops team 
+
+Apoorv Nag :  will. enable the sonar 
+
+Apoorv Nag :  will they will set up that sonar 
+
+Apoorv Nag :  cube sonar cube set up in that github. 
+
+Apoorv Nag : ? so we will not be able to push 
+
+Apoorv Nag :  the code unless we have 
+
+Apoorv Nag :  fixed all the violations which 
+
+Apoorv Nag :  are given by sonarland. okay. 
+
+Apoorv Nag : ? so have a look on. so in ireland and 
+
+Apoorv Nag : , okay? so have a look on sooner and let me know what you guys think.  
+
+Apoorv Nag : .  and the second 
+
+Apoorv Nag :  update was github guidelines. 
+
+Apoorv Nag : , okay? i will present i will   
+
+Apoorv Nag :  present, i will not present my screen. i will just share the link. 
+
+Apoorv Nag : . so, 
+
+Apoorv Nag : , whenever we are creating 
+
+Apoorv Nag :  a project name whenever 
+
+Apoorv Nag :  we are creating a project name, whenever we are creating a new project in github, 
+
+Apoorv Nag : , we are following that process, which 
+
+Apoorv Nag :  is given by our devops team, right? 
+
+Apoorv Nag : ? that framework, name 
+
+Apoorv Nag : , whenever we are creating a new project in github, we are following that process, which is given by our devops team, right? that framework name platform. platform framework 
+
+Apoorv Nag :  language then the project name, right? 
+
+Apoorv Nag : ? that is the standard we are following, 
+
+Apoorv Nag :  that process, which is given by our devops team, right? that framework name platform. platform framework language then the project name, right? that is the standard we are following, right? apart from the project 
+
+Apoorv Nag :  name, right? that is the standard we are following, right? apart from the project name, there are two more 
+
+Apoorv Nag :  standards which we have to follow from 
+
+Apoorv Nag : . get operations. one 
+
+Apoorv Nag :  is creating a branch name.  
+
+Apoorv Nag : .  another one is naming 
+
+Apoorv Nag :  the commit. while we 
+
+Apoorv Nag :  do the commits, we have to follow the naming 
+
+Apoorv Nag :  standards, okay? 
+
+Apoorv Nag : ? the link. i will share in the  
+
+Apoorv Nag :  python team.  again, i think 
+
+Apoorv Nag :  i have already shared it 
+
+Apoorv Nag :  multiple times. 
+
+Apoorv Nag : . and this spanning that channel. 
+
+Apoorv Nag : . with more links. okay. 
+
+Apoorv Nag : . i've already shared yesterday. i will delete 
+
+Apoorv Nag :  it yesterday. i have already shared that 
+
+Apoorv Nag :  athletian link  
+
+Apoorv Nag :  where you have to follow two things first year. 
+
+Apoorv Nag : , how to name the branch? 
+
+Apoorv Nag :  and how to name the commits? okay. 
+
+Apoorv Nag : . whatever 
+
+Apoorv Nag :  tasks you are doing. first of all, 
+
+Apoorv Nag : , tickets should be created in the jira dashboard, 
+
+Apoorv Nag : , which will be visible to the project managers and 
+
+Apoorv Nag :  the clients once you 
+
+Apoorv Nag :  start working on that ticket, 
+
+Apoorv Nag : , you have to create a branch from 
+
+Apoorv Nag :  master branch, or feature branch 
+
+Apoorv Nag : , whatever is needed. the branch 
+
+Apoorv Nag :  name should contain the ticket number initially. 
+
+Apoorv Nag : , then, whatever 
+
+Apoorv Nag :  the name you want to put, like, feet 
+
+Apoorv Nag :  a feature slash, or  
+
+Apoorv Nag : king on that ticket, you have to create a branch from master branch, or feature branch, whatever is needed. the branch name should contain the ticket number initially, then, whatever the name. you want to put like, feet a feature slash or call us hyphen. the 
+
+Apoorv Nag :  feature in then, when 
+
+Apoorv Nag :  you're done with the work, 
+
+Apoorv Nag : , you have to update. 
+
+Apoorv Nag : , you have to daily update the 
+
+Apoorv Nag :  tickets. like you 
+
+Apoorv Nag :  have a daily update. the tickets with the 
+
+Apoorv Nag :  work, you have to update, you have to daily update the tickets like you have a daily update. the tickets with the commit number commits, which you are doing 
+
+Apoorv Nag :  those commits should have the proper names. 
+
+Apoorv Nag : . ticket name  
+
+Apoorv Nag :  the ticket number, then your commit 
+
+Apoorv Nag :  message. okay, 
+
+Apoorv Nag : , do you have any questions or 
+
+Apoorv Nag :  you want to? you want 
+
+Apoorv Nag :  to? you want me to repeat? 
+
+Apoorv Nag : ? no. 
+
+Apoorv Nag : . 
+
+Abhishek Negi : So, it's clear. 
+
+Apoorv Nag : It's good. Okay, okay. See you 
+
+Apoorv Nag :  guys then anything else you want there? 
+
+Apoorv Nag : It's good. Okay, okay. See you guys then anything else you want that? You want to discuss guys? 
+
+Abhishek Negi : Yeah, 
+
+Abhishek Negi : , i have a question. 
+
+Abhishek Negi : . yeah, just have my video 
+
+Abhishek Negi :  are safe. at least. 
+
+Abhishek Negi : . url. plus it's less 
+
+Abhishek Negi :  static slash video and file name dot 
+
+Abhishek Negi :  mp4, right? 
+
+Abhishek Negi : ? i'll get my vote for more videos. 
+
+Apoorv Nag : Right. 
+
+Abhishek Negi : So it's Metaphase security bridge 
+
+Abhishek Negi :  over here. 
+
+You : It's a public 
+
+You :  list organization. 
+
+Apoorv Nag : There was your S3 
+
+Apoorv Nag : 3 volume. 
+
+Apoorv Nag : . dictionary. 
+
+Apoorv Nag : . public health 
+
+Apoorv Nag :  logic. 
+
+Abhishek Negi : like, You come on a main goal 
+
+Abhishek Negi :  yet. i keep a private. 
+
+Apoorv Nag : Uh-huh. 
+
+Apoorv Nag : . cheeky birthday, 
+
+Apoorv Nag : . 
+
+You : You don't go authentication job, look 
+
+You : , jwt tokens, use  
+
+You :  corus.  
+
+You : You don't go authentication, job look. JWT tokens, use 
+
+You :  corusibility login.   
+
+Abhishek Negi : Many. 
+
+Apoorv Nag : streaming 
+
+Apoorv Nag :  service lagana stream after using 
+
+Apoorv Nag :  streaming service that problem will be 
+
+Apoorv Nag :  solved. okay, if 
+
+Abhishek Negi : Yes. 
+
+Apoorv Nag : that problem 
+
+Apoorv Nag :  will be solved but concept and 
+
+Apoorv Nag :  your future roadmap me. 
+
+Apoorv Nag : . okay. 
+
+Abhishek Negi : Okay. 
+
+Apoorv Nag : Hello, see you guys.  
+
+Pravin Prabhakar Mohadika : Yep. 
+
+You : Bye. 
+
+Pravin Prabhakar Mohadika : Woman. 
+
+Pravin Prabhakar Mohadika :  and this can trans  
+
+Pravin Prabhakar Mohadika :  transcripts here. 
+
+You : Hmm. Play why? 
+
+You :  don't i  
+
+You :   just, 
+
+You :  thailand. 
+
+You : .  
+
+You : . he died. 
+
+You : . thailand, but you 
+
+Pravin Prabhakar Mohadika : Attention could. 
+
+Pravin Prabhakar Mohadika :  be here. 
+
+You : Might Thailand, but 
+
+You :  you attention could be. 
+
+You :  here my time, but your dish. 
+
+Pravin Prabhakar Mohadika :  
+
+Pravin Prabhakar Mohadika :  our channel. 
+
+You : How to 
+
+You :  become money. don't. 
+
+You :  get the google. 
+
+You : . we gave me transcript, 
+
+You :  installed, okay? 
+
+You : ? akbargo, caption vivo 
+
+You :  karnataka. 
+
+You : How much? 
+
+You :  differences 
+
+You :  are here? cannot 
+
+You :  say like you ebony. 
+
+You :  characters. we are correct 
+
+You : How much differences are here? Cannot say like you ebony characters. Your character caption 
+
+You :  both doing sentences coffee 
+
+You :  mismatch. 
+
+You : . is matt wrongly later. 
+
+Pravin Prabhakar Mohadika : You cannot tell you. 
+
+Pravin Prabhakar Mohadika : . but, 
+
+Pravin Prabhakar Mohadika : , but 
+
+Pravin Prabhakar Mohadika :  but google meet 
+
+Pravin Prabhakar Mohadika :  such a caption is 
+
+Pravin Prabhakar Mohadika :  kind a zoom. zoom zumba caption on both 
+
+Pravin Prabhakar Mohadika :  the channel please. 
+
+You : Maybe like they have used some 
+
+You :  different concepts zunga book 
+
+You :  options, the poverty about taking your 
+
+You :  voice power to be, whatever would say 
+
+You :  pro perfectly. 
+
+You : . capturing them don't get 
+
+You :  translated. hey, work 
+
+You :  around 
+
+You :  here. 
+
+You : . 
+
+Pravin Prabhakar Mohadika : Remember you? 
+
+You : Eat a manager. 
+
+You : . be 
+
+You :  committed piano. 
+
+You : . here, where function cooper woman, could 
+
+You :  you 
+
+You :  comments here?  
+
+Pravin Prabhakar Mohadika : He? 
+
+Pravin Prabhakar Mohadika :  when 
+
+You : oh, 
+
+You : , you say 
+
+Pravin Prabhakar Mohadika : he comments. 
+
+You : oh sure. 
+

@@ -1,0 +1,352 @@
+You : I think I've always offline? 
+
+You :  right now. 
+
+Abhishek Negi : Yes, I think. 
+
+Reshma sadhu waghmare : You can walk over here. 
+
+Abhishek Negi : They will accept that. I 
+
+You : I think there's 
+
+You :  a one more guy. who is the 
+
+You :  third 
+
+Abhishek Negi : He 
+
+Abhishek Negi :  defined developer. or video portal. 
+
+You : Okay, okay. 
+
+Atharv Kelwadkar : Hi guys. I do. 
+
+Atharv Kelwadkar : . my. 
+
+You : Any response from 
+
+You :  apur, right? 
+
+You : ? thing is 
+
+You :  no updates. 
+
+You : Abhishek, do you 
+
+You :  have idea like a how to know like 
+
+You :  in the meeting is going go like 
+
+You :  a how to know like in the meeting is going on? like 
+
+Apoorv Nag : Hello guys, good 
+
+Apoorv Nag :  evening. 
+
+Abhishek Negi : Yeah, Bible. 
+
+Apoorv Nag : How are you? 
+
+Atharv Kelwadkar : Would. 
+
+Apoorv Nag : Great 
+
+Apoorv Nag : . great. so starting with 
+
+Apoorv Nag :  other 
+
+Atharv Kelwadkar : How? 
+
+Atharv Kelwadkar : ? can 
+
+Atharv Kelwadkar :  you? 
+
+Reshma sadhu waghmare : Good. 
+
+Apoorv Nag : G. 
+
+Apoorv Nag : . this is not working. 
+
+Apoorv Nag : . and one. 
+
+Apoorv Nag : . hello. 
+
+Abhishek Negi : Yeah, hello. 
+
+Apoorv Nag : Hi 
+
+Apoorv Nag :  other. can you give some 
+
+Apoorv Nag :  update about? 
+
+Apoorv Nag : ? about the landing page of the 
+
+Apoorv Nag :  videos portal. 
+
+Atharv Kelwadkar : Oh, yes, 
+
+Atharv Kelwadkar : , abhishek and me. we're trying to 
+
+Atharv Kelwadkar :  add the google 
+
+Atharv Kelwadkar :  thing like integrate with 
+
+Atharv Kelwadkar :  the google. they are like 
+
+Atharv Kelwadkar :  some value. 
+
+Apoorv Nag : Show the team 
+
+Apoorv Nag : . yeah, show the team if there are 
+
+Apoorv Nag :  if there is something we can see. 
+
+Atharv Kelwadkar : this is so this is the 
+
+Apoorv Nag : Yeah, it is 
+
+Apoorv Nag :  visible. 
+
+Atharv Kelwadkar : yeah, 
+
+Atharv Kelwadkar : , so basically the 
+
+Atharv Kelwadkar :  search box and the filter option and 
+
+Apoorv Nag : Okay. 
+
+Atharv Kelwadkar : links. Okay, so  
+
+Atharv Kelwadkar :  i'll link it to this specific 
+
+Atharv Kelwadkar :  page with the topics and 
+
+Apoorv Nag : Okay. 
+
+Atharv Kelwadkar : stuff. Oh, another 
+
+Atharv Kelwadkar :  description. but currently, i was trying with 
+
+Atharv Kelwadkar :  that, like google thing, but 
+
+Atharv Kelwadkar :  it's like 
+
+Apoorv Nag : Uh-huh. 
+
+Atharv Kelwadkar : We are not. 
+
+Atharv Kelwadkar : . capital, 
+
+Atharv Kelwadkar :  what data store can i have? but 
+
+Atharv Kelwadkar :  i am not able to store that data 
+
+Atharv Kelwadkar :  and we'll login for a 
+
+Atharv Kelwadkar :  successfully joy 
+
+Atharv Kelwadkar :  particular part the visara but like 
+
+Atharv Kelwadkar :  uske variable images of 
+
+Atharv Kelwadkar :  data store energy. 
+
+Apoorv Nag : Touch it. I 
+
+Apoorv Nag :  think you can 
+
+Atharv Kelwadkar : . 
+
+Apoorv Nag :  store it in local storage. i can help you. 
+
+Apoorv Nag :  if you if you are 
+
+Apoorv Nag :  ready with javascript. 
+
+Atharv Kelwadkar : Okay. 
+
+Apoorv Nag : So I can help you 
+
+Apoorv Nag :  installing that jwt token up 
+
+Apoorv Nag :  url, say, value reader.  
+
+Apoorv Nag : .  okay. 
+
+Atharv Kelwadkar : Obviously. Right. 
+
+Apoorv Nag : GK, 
+
+Apoorv Nag : , i and you know how to use 
+
+Apoorv Nag :  local storage and session storage. 
+
+Atharv Kelwadkar : No. 
+
+Apoorv Nag : A ticket 
+
+Apoorv Nag :  that i will help you. okay. 
+
+Apoorv Nag : . so that is a very 
+
+Apoorv Nag :  short thing. i think a team 
+
+Apoorv Nag :  will also understand, i think 
+
+Apoorv Nag :  a team will also understand. i think most of the most of us would be 
+
+Apoorv Nag :  knowing that but 
+
+Apoorv Nag :  anyhow, i will show it. is. 
+
+Apoorv Nag :  my screen 
+
+Apoorv Nag :  visible. 
+
+Apoorv Nag : . no, i'm too 
+
+Apoorv Nag :  early to say, 
+
+You : Here. Yeah. It's 
+
+Apoorv Nag : Okay, so see. 
+
+Apoorv Nag : . other. 
+
+Apoorv Nag : . by. see, 
+
+Apoorv Nag : , this is the application tab right 
+
+Apoorv Nag :  here. you can see local storage. 
+
+Apoorv Nag : . whatever the data 
+
+Apoorv Nag :  is stored for this website, this will be stored in 
+
+Apoorv Nag :  this meet dot google.com, okay? 
+
+Atharv Kelwadkar : Okay. 
+
+Apoorv Nag : Let's 
+
+Apoorv Nag :  say you are getting some value 
+
+Apoorv Nag :  from the url, pattern url query, 
+
+Apoorv Nag :  parameter, okay, let's say that is a  
+
+Apoorv Nag :  jw token. 
+
+Apoorv Nag : . give that token value is some random 
+
+Apoorv Nag :  test. okay, now, you 
+
+Atharv Kelwadkar : Okay. 
+
+Apoorv Nag : Now you want to store the token in your browser, 
+
+Apoorv Nag : , okay. for your session, 
+
+Apoorv Nag : , okay? so what you can do,  
+
+Atharv Kelwadkar : Okay. 
+
+Apoorv Nag :  you can use session storage, 
+
+Apoorv Nag : And 
+
+Apoorv Nag :  assign a variable to this, for example, 
+
+Apoorv Nag : , my session, 
+
+Apoorv Nag : , okay? 
+
+Apoorv Nag : ? and you put this value here. 
+
+Apoorv Nag : . how many of you know this thing 
+
+Apoorv Nag :  session storage and local storage 
+
+Apoorv Nag :  say yes. 
+
+You : Yes. 
+
+Apoorv Nag : Okay. 
+
+Apoorv Nag : . so i thought 
+
+Apoorv Nag :  praveen and abhishek. 
+
+Apoorv Nag : . open. oops. 
+
+You : Oh, Praveen 
+
+You :  is i think so outside. 
+
+You : . he has updated some 
+
+Apoorv Nag : oh, 
+
+Apoorv Nag : , okay. okay. no 
+
+Apoorv Nag :  issues, no issues.  
+
+Apoorv Nag : , no issues and just press enter. check 
+
+Apoorv Nag :  your application tab. 
+
+Apoorv Nag : . you can see it is here, right? 
+
+Apoorv Nag : ? my session. 
+
+Apoorv Nag : . next time, 
+
+Apoorv Nag :  when you hit the api, okay? 
+
+Apoorv Nag : ? you have to get the 
+
+Apoorv Nag :  value in the same way 
+
+Apoorv Nag :  session storage. my session, 
+
+You : He? 
+
+Apoorv Nag : . next time when you hit the api, okay? you have to get the value in the same way session storage. my session, okay. 
+
+Atharv Kelwadkar : okay, so first 
+
+Atharv Kelwadkar : , i need to put that value somewhere. 
+
+Atharv Kelwadkar :  like store that value in a 
+
+Atharv Kelwadkar :  variable then call that variable. 
+
+Atharv Kelwadkar : . it's a this is 
+
+Atharv Kelwadkar :  sort of cookie i guess. 
+
+Apoorv Nag : Yes. 
+
+Atharv Kelwadkar : Okay. 
+
+Apoorv Nag : So, you can have 
+
+Apoorv Nag :  a understanding between 
+
+Apoorv Nag :  a difference between location. 
+
+You : Good. 
+
+You :  
+
+Apoorv Nag : Look over local storage such as storage, which is 
+
+Apoorv Nag :  very simple. okay, 
+
+Apoorv Nag : , when you refresh it just 
+
+Apoorv Nag :  went away, okay, just give me  
+
+Apoorv Nag :  diminishes it just it is the deleted 
+
