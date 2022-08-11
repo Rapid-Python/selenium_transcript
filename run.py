@@ -12,8 +12,11 @@ from selenium.webdriver.common.by import By
 
 load_dotenv()
 
+# get all variable from .env
+
 MAIL_ID = os.getenv('MAIL_ID')
 PASSWORD = os.getenv('PASSWORD')
+MEET_LINK = os.getenv('MEET_LINK')
 
 opt = Options()
 opt.add_argument('--disable-blink-features=AutomationControlled')
@@ -28,8 +31,6 @@ opt.add_experimental_option("prefs", {
 print(webdriver.Chrome)
 driver = webdriver.Chrome(options=opt)
 # driver = webdriver.Chrome(chrome_options=opt, executable_path=ChromeDriverManager().install())
-
-# driver = webdriver.Chrome('/usr/local/bin/chromedriver', options=opt)
 
 def Glogin(mail_address, password):
     # Login Page
@@ -88,30 +89,31 @@ password = PASSWORD
 Glogin(mail_address, password)
 
 # go to google meet
-driver.get('https://meet.google.com/xay-hbhz-iht')
+driver.get(MEET_LINK)
 turnOffMicCam()
 joinNow()
 
-print('---------------------------------------')
 driver.implicitly_wait(20)
-print('---------------------------------------')
 
-print("p"*10, "captions")
-#cap = driver.find_element(by=By.XPATH, value='//*[@id="ow3"]/div[1]/div/div[10]/div[3]/div[10]/div[2]/div/div[3]/span/button').click()
-
+# turn on Caption
 try:
     wait = WebDriverWait(driver, 30)
     wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "button.VfPpkd-Bz112c-LgbsSe.fzRBVc.tmJved.xHd4Cb.rmHNDe"))).click()
-    print("is dispaled.....")
-    # element.click()
+    print("google meets screen is diplayed.....")
 except:
-    print("not dispaled.....")
+    print("google meets screen not displayed.....")
     driver.quit()
 
     
 time.sleep(5)
 
-random_name = randint(000,9999)
+"""
+To get all HTML code of captions stored in file in every 2 sec sleep.
+File name taken by generating random number from 0000, 9999
+Breaking while loop after meeting got ended.
+"""
+
+random_name = randint(0000,9999)
 file_name = f'{random_name}.txt'
 auth_text = ''
 while True:
@@ -125,13 +127,18 @@ while True:
         
    except:
        break
-    
-print("after breakkkkkkkkkkk")
+ 
+"""
+Use beautiful soup to get author name and messages from file.
+stored author with message in list.
+
+"""    
+print(" after meeting ended")
 list_chat = list()
 with open(file_name, "rb") as file_data:
     for line in file_data.readlines():
-        # temp_dict = dict()
         html_content = line.decode().strip()
+        #
         bs4_content = BeautifulSoup(html_content,'html.parser')
         chatbox_html = bs4_content.find_all("div",class_="TBMuR bj4p3b")
         for chat in chatbox_html:
@@ -146,18 +153,19 @@ with open(file_name, "rb") as file_data:
                     temp_dict["message"] = ""
                 list_chat.append(temp_dict)
            
-                # print(temp_dict)
-                
-# print(list_chat)
-       
-# exit()               
-                
+           
+"""
+Logic implemented to avoid duplication of messages,
+and stored in final list varible.
+
+"""                
 final_chat = list()
 temp_dict = dict()
 count = -1
 for author_chat in list_chat:
     count += 1
     
+    # To avoid dupilcation of author message which captured multiple times.
     if count >= 2 and author_chat['author']==list_chat[count-2].get('author'):
        
         if list_chat[count-2].get('message').upper() in author_chat['message'].upper():
@@ -166,6 +174,8 @@ for author_chat in list_chat:
         else:
             temp_dict["message"].append(author_chat["message"])
             continue
+        
+    # To stored messsage in list and list stored in dict when author is different. 
     if temp_dict.get('author') != author_chat['author']:
         if temp_dict:
             temp_dict["message"] = "".join(temp_dict["message"])
@@ -175,9 +185,13 @@ for author_chat in list_chat:
         temp_dict = dict()
         temp_dict['author'] = author_chat['author']
         temp_dict['message'] = [author_chat['message']]
-        continue    
+        continue
+    
+    # To avoid message is simillar to previous message of same author.    
     if temp_dict["message"][-1].upper() == author_chat["message"].upper():
         continue
+    
+    # To avoid some same message contains in new messages of same author. 
     elif len(temp_dict["message"][-1]) < len(author_chat["message"]):
         old_upper_message = temp_dict["message"][-1].upper()
         new_upper_message = author_chat["message"].upper()
@@ -185,6 +199,8 @@ for author_chat in list_chat:
             temp_dict["message"][-1] = author_chat["message"]
         else:
             temp_dict["message"].append(author_chat["message"])
+    
+    # If above condition are not matching then avoid duplication of messages to previous.
     else:
         old_upper_message = temp_dict["message"][-1].upper()
         new_upper_message = author_chat["message"].upper()
@@ -193,7 +209,7 @@ for author_chat in list_chat:
         else:
             temp_dict["message"].append(author_chat["message"])
 
-# print(final_chat)
+# Write final messages in file with author name.
 chat_file_name = f"CHAT_{file_name}"
 with open(chat_file_name, "w+") as out_file:
     out_file.writelines(final_chat)
