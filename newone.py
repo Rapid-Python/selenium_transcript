@@ -23,15 +23,12 @@ with open("DEMO_4534.txt","rb") as file_data:
                 
 # print(list_chat)
        
-# exit()               
-                
+# exit()   
+
 final_chat = list()
-temp_dict = dict()
-count = -1
-for author_chat in list_chat:
-    count += 1
-   
-    if temp_dict:
+def final_message(count, temp_dict):
+    # pass
+     if temp_dict:
         temp_dict['message'] = temp_dict['message'].strip()
         if not temp_dict['message']:
             pass
@@ -49,6 +46,7 @@ for author_chat in list_chat:
                 if temp_dict['author'] == get_author_from_final_chat:
                     # pass
                     get_message_from_final_chat = final_chat[-1][get_author_len+2:]
+                    
                     del final_chat[-1]
                     temp_dict['message'] = get_message_from_final_chat.strip() +" "+temp_dict['message']
                     write_str = f"{temp_dict['author']} : {temp_dict['message']}\n\n"
@@ -56,7 +54,20 @@ for author_chat in list_chat:
                     write_str = f"{temp_dict['author']} : {temp_dict['message']}\n\n"
             else:  
                 write_str = f"{temp_dict['author']} : {temp_dict['message']}\n\n"
-            final_chat.append(write_str)
+                
+            if temp_dict['message']:
+                final_chat.append(write_str)            
+
+
+def previous_duplication_avoid():
+    pass                
+# final_chat = list()
+temp_dict = dict()
+count = -1
+for author_chat in list_chat:
+    count += 1
+   
+    final_message(count, temp_dict)
             
     temp_dict = dict()
    
@@ -122,11 +133,11 @@ for author_chat in list_chat:
        
         temp_dict['author'] = author_chat['author']
         temp_dict['message'] = ''
-        msg = list_chat[count-2].get('message')
+        old_msg = list_chat[count-2].get('message')
        
-        print("msg: ", msg)
-        print("temp_dict['author']: ", temp_dict['author'])
-        new_msg = msg.strip()
+        # print("msg: ", msg)
+        # print("temp_dict['author']: ", temp_dict['author'])
+        new_msg = old_msg.strip()
         if not new_msg:
             continue
         print("new_msg: ", new_msg)
@@ -179,8 +190,9 @@ for author_chat in list_chat:
 # print(final_chat[0].find(" : "))
 # print(final_chat[0][0:10])
 # exit()
-new_file = "N_TEST_4534.txt"
+new_file = "T_TEST_4534.txt"
 with open(new_file, "w+") as out_file:
     out_file.writelines(final_chat)
     
+
     

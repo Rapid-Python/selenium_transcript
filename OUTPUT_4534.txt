@@ -1,10 +1,6 @@
 Apoorv Nag : via email. So these two services we have created and also we were trying to you implement rabbitmq to implement microservice architecture there.
 
-Vijay Mishra : Okay. Okay.  and what about no?  i think we have. we
-
-Apoorv Nag : 
-
-Vijay Mishra : had a discussion regarding the aps of files. so,
+Vijay Mishra : Okay. Okay.  and what about no?  i think we have. we had a discussion regarding the aps of files. so,
 
 Apoorv Nag : Yes.
 
@@ -46,15 +42,7 @@ Vijay Mishra : do you letting you letting like one? id to join in this meter? yo
 
 You : On. Oh no.  i have created one test idea because in my account,  i have a mediter to all the verification. i can say, like there's a verification. so, due to verification, i'm not able to make a login with my own id. so i have created one test idea. because in my account, i have a mediter to all the verification. i can say, like there's a verification. so, due to verification, i'm not able to make a login with my own id. so i have created on this.  so,
 
-Vijay Mishra : That's fine, but like no if you're not taking
-
-You : 
-
-Vijay Mishra : inviting that that thing  that how come it's going to,
-
-You : 
-
-Vijay Mishra : you know, do those like capture caption ing something, structure?
+Vijay Mishra : That's fine, but like no if you're not taking inviting that that thing  that how come it's going to,  you know, do those like capture caption ing something, structure?
 
 You : No, come again. I'm not
 
@@ -108,15 +96,7 @@ Apoorv Nag : Yes.
 
 Vijay Mishra : planning.
 
-Apoorv Nag :  yes basically we are going to
-
-Vijay Mishra : 
-
-Apoorv Nag : store this transcript in the similar way as fireflies do and we have to expose
-
-Vijay Mishra : 
-
-Apoorv Nag : that data.  through our apis.
+Apoorv Nag : yes basically we are going to store this transcript in the similar way as fireflies do and we have to expose that data.  through our apis.
 
 Vijay Mishra : Exactly. So no front and can call our api, you know. and can call our api, you know, and they can so on their ui or maybe you know,  and they can so on their ui or maybe you know you maybe back and people can take that and you know put it somewhere maybe. i don't know what these people are doing it in the back end, so i'm not sure like no, whether we can like build entire pie, entire like no backend and python itself is like what you think like no, whether we can like build entire pie, entire like no backend and python itself is like what you think? like, you must be aware about it. so, what do you think? like is it?  like possible. i'm obviously it's possible but what your take on it? self is like what you think? like, you must be aware about it. so what do you think? like is it? like possible. i'm obviously it's possible, but what your take on it? so do we build our like backend this particular products back in python itself?
 
@@ -150,15 +130,7 @@ Vijay Mishra : Hmm.
 
 Apoorv Nag : And features like roles, which they are using as because they are managing fireflies,  user base separately than the users, who are joining the meeting.  okay.
 
-Vijay Mishra : hi, you, you know,  you'll surprise to know that. no,
-
-Apoorv Nag : 
-
-Vijay Mishra :  we achieved some of the things on the matrix is
-
-Apoorv Nag : 
-
-Vijay Mishra : that is way better than no fire files, too. like no summary and other sentiment sort of things  another matrix is like no participation of a user in a meeting, all those other things.  so we already achieved it. so all those things will be, you know, will be you know, will be there in the application that we will be noveloping.  so, like whatever work
+Vijay Mishra : hi, you, you know,  you'll surprise to know that. no,  we achieved some of the things on the matrix is that is way better than no fire files, too. like no summary and other sentiment sort of things  another matrix is like no participation of a user in a meeting, all those other things.  so we already achieved it. so all those things will be, you know, will be you know, will be there in the application that we will be noveloping.  so, like whatever work
 
 Apoorv Nag : Okay.
 
