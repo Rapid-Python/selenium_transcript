@@ -6,3 +6,11 @@ main.py
 test.py
 main.py/
 test.py/
+output
+output/
+newone.py
+newone.py/
+__pycache__/
+*.pyc
+.DS_Store
+.DS_Store/
