@@ -39,7 +39,7 @@ def final_message(count, temp_dict):
                 temp_dict['message'] = temp_dict['message'][1:]
            
             if count > 1:
-                print(final_chat[-1])
+                # print(final_chat[-1])
                 get_author_len = final_chat[-1].find(" : ")
                 get_author_from_final_chat = final_chat[-1][0:get_author_len]
                 if temp_dict['author'] == get_author_from_final_chat:
@@ -47,7 +47,7 @@ def final_message(count, temp_dict):
                     get_message_from_final_chat = final_chat[-1][get_author_len+2:]
                     
                     del final_chat[-1]
-                    temp_dict['message'] = get_message_from_final_chat.strip() +" "+temp_dict['message']
+                    temp_dict['message'] = get_message_from_final_chat.strip() +" "+temp_dict['message'].strip()
                     write_str = f"{temp_dict['author']} : {temp_dict['message']}\n\n"
                 else:  
                     write_str = f"{temp_dict['author']} : {temp_dict['message']}\n\n"
@@ -179,9 +179,7 @@ def evaluate_message(list_chat):
             else:
                 temp_dict['message'] = author_chat['message']
                 continue
-# print(final_chat[0].find(" : "))
-# print(final_chat[0][0:10])
-# exit()
+
 def final_messages_in_text(file_name):
     new_file = f"DEMO_{file_name}"
     with open(new_file, "w+") as out_file:
